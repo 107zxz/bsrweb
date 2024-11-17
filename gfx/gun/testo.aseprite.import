@@ -1,0 +1,14 @@
+[remap]
+
+importer="aseprite_wizard.plugin.noop"
+type="PackedDataContainer"
+uid="uid://d18ke5y7syq4c"
+path="res://.godot/imported/testo.aseprite-65b2d214abdae5ef1f9b6d4f2496ad98.res"
+
+[deps]
+
+source_file="res://gfx/gun/testo.aseprite"
+dest_files=["res://.godot/imported/testo.aseprite-65b2d214abdae5ef1f9b6d4f2496ad98.res"]
+
+[params]
+
